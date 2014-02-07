@@ -1,2 +1,6 @@
 buildingworlds_week01/Library/
 buildingworlds_week01/Temp/
+buildingworlds_week02/Library/
+buildingworlds_week02/Temp/
+*.csproj
+*.sln
