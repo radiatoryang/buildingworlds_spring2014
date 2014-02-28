@@ -4,3 +4,8 @@ buildingworlds_week02/Library/
 buildingworlds_week02/Temp/
 *.csproj
 *.sln
+*.userprefs
+buildingworlds_week04/Library/
+buildingworlds_week04/Temp/
+buildingworlds_week05/Library/
+buildingworlds_week05/Temp/
